@@ -2,17 +2,46 @@
 layout: page
 title: About Me
 permalink: /about/
+published: true
 ---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
 
+#### 출간 서적
+<div class="clearfix">
+<ul><li><a href="http://www.yes24.com/24/goods/5058647" target="_blank">빠르게 활용하는 모바일 데이터베이스 SQLite3</a> 출간 (2011.5 / 위키북스)
+<img class="book" src="{{ site.baseurl }}/assets/sqlite-book.jpg" title="빠르게 활용하는 모바일 데이터베이스 SQLite3">
+</li></ul>
+</div>
+<div class="clearfix">
+<ul><li><a href="http://www.yes24.com/24/goods/5058647" target="_blank">빠르게 활용하는 모바일 데이터베이스 SQLite3</a> 출간 (2011.5 / 위키북스)
+<img class="book" src="{{ site.baseurl }}/assets/sqlite-book.jpg" title="빠르게 활용하는 모바일 데이터베이스 SQLite3">
+</li></ul>
+</div>
+<div class="clearfix">
+<ul><li><a href="http://www.yes24.com/24/goods/5058647" target="_blank">빠르게 활용하는 모바일 데이터베이스 SQLite3</a> 출간 (2011.5 / 위키북스)
+<img class="book" src="{{ site.baseurl }}/assets/sqlite-book.jpg" title="빠르게 활용하는 모바일 데이터베이스 SQLite3">
+</li></ul>
+</div>
 
-
+<br />
 #### 오프라인 세미나
 * Web2.0! SOA의 친구인가? 적인가? - RDF 기반의 Semantic Web (2007. 7 / 부산 소프트웨어 진흥원)
 * MSDN 세미나 - Semantic Web 기술 개요 (2007. 2 / 마이크로소프트)
 * 기술 세미나 - RDF 기반의 Semantic Web 엔진 (2006. 10 / 삼성전자 기술총괄 SW 연구소)
+
+<br />
+#### 온라인 세니마
+* [[GoF] Visitor 패턴](http://www.devpia.com/NET2/EvaCast/Lecture/?cu=view&r=144) (2008. 12 / devpia)
+* [[GoF] Adapter 패턴](http://www.devpia.com/net2/EvaCast/Lecture/?cu=view&r=125) (2008. 7 / devpia)
+* [Package 구조를 위한 원칙들](http://www.devpia.com/NET2/EvaCast/Lecture/?cu=view&r=108) (2008. 7 / devpia)
+* [Web 2.0과 Semantic Web](http://www.devpia.com/NET2/EvaCast/Lecture/?cu=view&r=9) (2007. 7 / devpia)
+
+
+
+
+
 
 Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
