@@ -7,23 +7,44 @@ published: true
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
+#### Experience
+* Artificial Intelligence Engineer at AI Center, Samsung Electronics (2017. 8 ~ Current)
+  * Autonomous Driving / Robotics
+* System SW developer at SW Center, Samsung Electronics (2007. 1 ~ 2017. 7)
 
+
+<br />
 #### 출간 서적
 <div class="clearfix">
-<ul><li><a href="http://www.yes24.com/24/goods/5058647" target="_blank">빠르게 활용하는 모바일 데이터베이스 SQLite3</a> 출간 (2011.5 / 위키북스)
+<ul><li><a href="http://www.yes24.com/24/goods/43751272" target="_blank">빠르게 활용하는 Python 파이썬 3.6 프로그래밍</a> 출간 (2017. 7 / 위키북스)
+<img class="book" src="{{ site.baseurl }}/assets/python3-6-book.jpg" title="빠르게 활용하는 Python 파이썬 3.6 프로그래밍">
+</li></ul>
+</div>
+<div class="clearfix">
+<ul><li><a href="http://www.yes24.com/24/goods/6687985" target="_blank">빠르게 활용하는 Python 파이썬 3.2 프로그래밍</a> 출간 (2012. 4 / 위키북스)
+<img class="book" src="{{ site.baseurl }}/assets/python3-2-book.jpg" title="빠르게 활용하는 Python 파이썬 3.2 프로그래밍">
+</li></ul>
+</div>
+<div class="clearfix">
+<ul><li><a href="http://www.yes24.com/24/goods/5058647" target="_blank">빠르게 활용하는 모바일 데이터베이스 SQLite3</a> 출간 (2011. 5 / 위키북스)
 <img class="book" src="{{ site.baseurl }}/assets/sqlite-book.jpg" title="빠르게 활용하는 모바일 데이터베이스 SQLite3">
 </li></ul>
 </div>
 <div class="clearfix">
-<ul><li><a href="http://www.yes24.com/24/goods/5058647" target="_blank">빠르게 활용하는 모바일 데이터베이스 SQLite3</a> 출간 (2011.5 / 위키북스)
-<img class="book" src="{{ site.baseurl }}/assets/sqlite-book.jpg" title="빠르게 활용하는 모바일 데이터베이스 SQLite3">
+<ul><li><a href="http://www.yes24.com/24/Goods/4839616" target="_blank">소프트웨어 아키텍트가 알아야 할 97가지</a> 번역 (2011. 4 / 지앤선)
+<img class="book" src="{{ site.baseurl }}/assets/architect-book.jpg" title="소프트웨어 아키텍트가 알아야 할 97가지">
 </li></ul>
 </div>
 <div class="clearfix">
-<ul><li><a href="http://www.yes24.com/24/goods/5058647" target="_blank">빠르게 활용하는 모바일 데이터베이스 SQLite3</a> 출간 (2011.5 / 위키북스)
-<img class="book" src="{{ site.baseurl }}/assets/sqlite-book.jpg" title="빠르게 활용하는 모바일 데이터베이스 SQLite3">
+<ul><li><a href="http://www.yes24.com/24/goods/3432490" target="_blank">빠르게 활용하는 Python 파이썬 3 프로그래밍</a> 출간 (2009. 6 / 위키북스)
+<img class="book" src="{{ site.baseurl }}/assets/python3-book.jpg" title="빠르게 활용하는 Python 파이썬 3 프로그래밍">
 </li></ul>
 </div>
+<div class="clearfix">
+<ul><li><a href="http://www.yes24.com/24/goods/2875222" target="_blank">지속적인 통합: 소프트웨어 품질을 높이고 위험을 줄이기</a> 베타리딩 (2008. 3 / 위키북스)
+</li></ul>
+</div>
+
 
 <br />
 #### 오프라인 세미나
