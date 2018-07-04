@@ -4,17 +4,18 @@ title: About Me
 permalink: /about/
 published: true
 ---
-
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
-
-#### Experience
+<!--
+<img src="{{ site.baseurl }}/assets/P5040020.JPG" title="Profile Picture" class="profile">
+-->
+### Experience / 경력
 * Artificial Intelligence Engineer at AI Center, Samsung Electronics (2017. 8 ~ Current)
-  * Autonomous Driving / Robotics
+  * Autonomous Driving & Robotics development
+  * Deep learning optimization
 * System SW developer at SW Center, Samsung Electronics (2007. 1 ~ 2017. 7)
 
 
 <br />
-#### 출간 서적
+### Publications / 출간 서적
 <div class="clearfix">
 <ul><li><a href="http://www.yes24.com/24/goods/43751272" target="_blank">빠르게 활용하는 Python 파이썬 3.6 프로그래밍</a> 출간 (2017. 7 / 위키북스)
 <img class="book" src="{{ site.baseurl }}/assets/python3-6-book.jpg" title="빠르게 활용하는 Python 파이썬 3.6 프로그래밍">
@@ -45,31 +46,32 @@ published: true
 </li></ul>
 </div>
 
+<br />
+### Articles in the magazine / 기고
+<div class="clearfix">
+<ul>
+<li>파이썬을 활용한 검색엔진 만들기 - 파이썬 3.1 및 pdb를 이용한 디버깅<br />(2009. 11 / Micro Software)
+<img class="book" src="{{ site.baseurl }}/assets/microsofware-book.jpg" title="Micro Software">
+</li>
+<li>파이썬을 활용한 검색엔진 만들기 - 파이썬 3.0의 변화<br />(2009. 10 / Micro Software)</li>
+<li>파이썬을 활용한 검색엔진 만들기 - Django를 이용한 검색 사이트 구현<br />(2009. 9 / Micro Software)</li>
+<li>파이썬을 활용한 검색엔진 만들기 - PyLucene을 활용한 Index 모듈 구현 (2009. 8 / Micro Software)</li>
+<li>파이썬을 활용한 검색엔진 만들기 - 블로그 크롤러(Blog Crawler) 구현 (2009. 7 / Micro Software)</li>
+<li>패턴 적용의 득과 실은 이것! (2009. 5 / Micro Software)</li>
+<li>이클립스를 활용한 프레임워크 리펙토링 (2009. 3 / Micro Software)</li>
+</ul>
+</div>
 
 <br />
-#### 오프라인 세미나
+### Seminar / 오프라인 세미나
+* [바닥서부터 만들어보는 타이젠 / Making Tizen from scratch](https://www.slideshare.net/again4you/tizen-talk-2016-in-seoul) (2016. 1 / Samsung Electronics)
 * Web2.0! SOA의 친구인가? 적인가? - RDF 기반의 Semantic Web (2007. 7 / 부산 소프트웨어 진흥원)
-* MSDN 세미나 - Semantic Web 기술 개요 (2007. 2 / 마이크로소프트)
-* 기술 세미나 - RDF 기반의 Semantic Web 엔진 (2006. 10 / 삼성전자 기술총괄 SW 연구소)
+* MSDN 세미나 - Semantic Web 기술 개요 (2007. 2 / Microsoft Korea)
+* 기술 세미나 - RDF 기반의 Semantic Web 엔진 (2006. 10 / Samsung Electronics)
 
 <br />
-#### 온라인 세니마
+### Webinar / 온라인 세니마
 * [[GoF] Visitor 패턴](http://www.devpia.com/NET2/EvaCast/Lecture/?cu=view&r=144) (2008. 12 / devpia)
 * [[GoF] Adapter 패턴](http://www.devpia.com/net2/EvaCast/Lecture/?cu=view&r=125) (2008. 7 / devpia)
 * [Package 구조를 위한 원칙들](http://www.devpia.com/NET2/EvaCast/Lecture/?cu=view&r=108) (2008. 7 / devpia)
 * [Web 2.0과 Semantic Web](http://www.devpia.com/NET2/EvaCast/Lecture/?cu=view&r=9) (2007. 7 / devpia)
-
-
-
-
-
-
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
-
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
