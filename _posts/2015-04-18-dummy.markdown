@@ -4,7 +4,8 @@ title:  "Dummy Post"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: TestCategories
-tags:	jekyll banana
+tags:	[java, nodejs, python, rabbitmq, software]
+#tags:	jekyll banana
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
