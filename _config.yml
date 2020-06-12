@@ -41,7 +41,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: sangjungwoo
+disqus_shortname: again4you
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
