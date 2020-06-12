@@ -41,6 +41,8 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
+layout: default
+comments: true
 disqus_shortname: again4you
 
 # Google analytics
